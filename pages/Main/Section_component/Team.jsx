@@ -11,7 +11,7 @@ export default function Team() {
                     <div className="team-container">
                         <div className="title-holder">
                             <div className="jp-mobile"><img src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c774fb724e8965471718f_jp-team.svg" loading="lazy" alt="" className="jp-letters" /></div>
-                            <div className="section-title">Shadow Descedants Team</div>
+                            <div className="section-title">Shadow Descendants Team</div>
                             <h2 data-w-id="a6beb824-6be6-029b-ed37-a7fc514920a1" style={{ opacity: 1 }}>Real Vampires at your
                                 service</h2>
                         </div>
