@@ -4,7 +4,7 @@ export default function Header() {
             <div className="hero-container-outer">
                 <div className="hero-container-inner">
                     <div className="header"><a href="index.html" aria-current="page" className="w-inline-block w--current">
-                        <div className="header-logo"><img src="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb146ed6687756e33e617f_logo.svg" loading="lazy" alt="" className="logo-desktop" /><img src="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb16084ab6a97e42b6dd2d_shape.svg" loading="lazy" width={48} alt="" className="logo-mobile" /></div>
+                        <div className="header-logo"><img src="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb146ed6687756e33e617f_logo.svg" loading="lazy" alt="" className="logo-desktop" /><img src="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb146ed6687756e33e617f_logo.svg" loading="lazy" width={48} alt="" className="logo-mobile" /></div>
                     </a>
                     <div class="header-links"><a href="#spec" class="nav-link">About</a><a href="#team" class="nav-link">Team</a><a href="#roadmap" class="nav-link">Roadmap</a><a href="https://mint.shadowdescedants.io/" class="nav-link">MINT</a></div>
                 
