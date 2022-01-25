@@ -4,12 +4,12 @@ export default function Roadmap() {
 
         <div id="roadmap" className="roadmap wf-section">
             <div className="story-container-outer">
-                <div data-w-id="15d09b24-09f8-5b99-b390-eb2a7172ed97" className="jp-story"><img src="https://uploads-ssl.webflow.com/618920e5b4d1235232ee7e3/618d14f7ed618842a876e9c1_jp-roadmap1.svg" loading="lazy" alt="" /></div>
+
                 <div className="roadmap-container">
                     <div className="title-holder">
-                        <div className="jp-mobile"><img src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618d14f7ed618842876e9c1_jp-roadmap1.svg" loading="lazy" alt="" className="jp-letters" /></div>
-                        <div className="section-title">The Roadmap Plan</div>
-                        <h2 data-w-id="ad15ec77-f88e-a814-407f-06015fea8d0c" style={{ opacity: 1 }}>You must understand that
+
+                        <div className="section-title">Roadmap</div>
+                        <h2 data-w-id="ad15ec77-f88e-a814-407f-06015fea8d0" style={{ opacity: 1 }}>You must understand that
                             there is
                             more than one path to the top of the mountain.</h2>
                         <div className="quote-author">Miyamoto Musashi</div>
@@ -46,7 +46,7 @@ export default function Roadmap() {
                                     <div className="phase-title">Phase 4</div>
                                     
                                     <p className="paragraph-14">When 50% has been minted, we will be donating to the same charity that will build a home for 12 children that have been abandoned
-                                     and put them into a loving home that will feed take care of every need.</p>
+                                     and put them into a loving home that will feed and take care of every need.</p>
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@ export default function Roadmap() {
                                 <div className="rm-block">
                                     <div className="phase-title">Phase 5</div>
                                     
-                                    <p className="paragraph-14">When 75% has been minted, we will be building a home for 25
+                                    <p className="paragraph-14">When 75% has been minted, we are building for an additional 25
                                     children that have been abandoned.</p>
                                 </div>
                             </div>
