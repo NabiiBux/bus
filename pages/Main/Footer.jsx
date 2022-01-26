@@ -24,10 +24,10 @@ export default function Footer() {
                     <div className="div-block-2">
                         <div className="copyright"><a href="https://www.shadowdecendants.io/privacy-policy" className="copyright-link">PRIVACY&nbsp;POLICY</a> — <a href="https://www.shadowdecendants.io/terms-of-use" className="copyright-link">TERMS&nbsp;OF&nbsp;USE</a>
                             — <a href="https://www.shadowdecendants.io/contact" className="copyright-link">CONTACT</a> — ©2022
-                            Shadow Decedants. All rights reserved.<a href="https://www.nabibubx.com/" target="_blank" className="copyright-link">‍</a></div>
+                            Shadow Descendants. All rights reserved.<a href="https://www.nabibubx.com/" target="_blank" className="copyright-link">‍</a></div>
                     </div>
                     <div>
-                        <div className="copyright"><a href="https://www.nabibux.com/" target="_blank" className="copyright-link" />Website created by <a href="https://www.nabibux.com/" target="_blank" className="copyright-link">Nabi&nbsp;Bux</a></div>
+                        <div className="copyright">Website created by <a href="https://www.nabibux.com/" target="_blank" className="copyright-link">Nabi&nbsp;Bux</a></div>
                     </div>
                 </div>
             </div>
