@@ -10,7 +10,7 @@ export default function Team() {
                 <div className="story-container-outer">
                     <div className="team-container">
                         <div className="title-holder">
-                            <div className="jp-mobile"><img src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c774fb724e8965471718f_jp-team.svg" loading="lazy" alt="" className="jp-letters" /></div>
+                            <div className="jp-mobile"><img src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c774fb724e865471718f_jp-team.svg" loading="lazy" alt="" className="jp-letters" /></div>
                             <div className="section-title">Shadow Descendant Team</div>
                             
                         </div>
