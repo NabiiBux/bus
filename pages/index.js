@@ -10,10 +10,10 @@ export default function Home() {
                 <meta charSet="utf-8" />
                 <title> SHADOW DESCENDANTS</title>
                 <meta content="If they stand behind you, protect them · If they stand beside you, respect them · If they stand against you, defeat them." name="description" />
-                <meta content="Samurai Saga" property="og:title" />
+                <meta content="SHADOW DESCENDANTS" property="og:title" />
                 <meta content="If they stand behind you, protect them · If they stand beside you, respect them · If they stand against you, defeat them." property="og:description" />
                 <meta content="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb17ee16ea58c9d351196e_Banner2.png" property="og:image" />
-                <meta content="Samurai Saga" property="twitter:title" />
+                <meta content="SHADOW DESCENDANTS" property="twitter:title" />
                 <meta content="If they stand behind you, protect them · If they stand beside you, respect them · If they stand against you, defeat them." property="twitter:description" />
                 <meta content="https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61eb17ee16ea58c9d351196e_Banner2.png" property="twitter:image" />
                 <meta property="og:type" content="website" />
