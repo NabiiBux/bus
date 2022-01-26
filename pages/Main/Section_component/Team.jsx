@@ -12,8 +12,7 @@ export default function Team() {
                         <div className="title-holder">
                             <div className="jp-mobile"><img src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c774fb724e8965471718f_jp-team.svg" loading="lazy" alt="" className="jp-letters" /></div>
                             <div className="section-title">Shadow Descendant Team</div>
-                            <h2 data-w-id="a6beb824-6be6-029b-ed37-a7fc514920a1" style={{ opacity: 1 }}>Real Vampires at your
-                                service</h2>
+                            
                         </div>
                         <div data-delay={4000} data-animation="slide" className="slider-2 w-slider" data-autoplay="false" data-easing="ease-in-out" style={{ opacity: 1 }} data-hide-arrows="false" data-disable-swipe="false" data-w-id="9dfd51f7-88e6-0b11-8b58-846c8cbe441c" data-autoplay-limit={0} data-nav-spacing={3} data-duration={500} data-infinite="true">
                             <div className="mask-2 w-slider-mask">
