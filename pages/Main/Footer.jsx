@@ -27,7 +27,7 @@ export default function Footer() {
                             Shadow Descendants. All rights reserved.</div>
                     </div>
                     <div>
-                        <div className="copyright">Website created by <a href="https://www.nabibux.com/" target="_blank" className="copyright-link">Nabi&nbsp;Bux</a></div>
+                        <div className="copyright">Website created by Nabi&nbsp;Bux </div>
                     </div>
                 </div>
             </div>
