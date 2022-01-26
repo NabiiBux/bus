@@ -63,7 +63,7 @@ export default function Roadmap() {
                                 <div className="rm-block">
                                     <div className="phase-title">Phase 6</div>
                                 
-                                    <p className="paragraph-14">OWhen 100% has been minted,
+                                    <p className="paragraph-14">When 100% has been minted,
                                      we will hit our biggest goal which is building another home.
                                      This home will be the biggest and will house 50 children.
 </p>
