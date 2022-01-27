@@ -163,7 +163,12 @@
     }
 
     .div-block-5 {
-        height: 1080px;
+        height: 850px;
+        background-image: url("https://uploads-ssl.webflow.com/61eb0a43c6673a087bcfb2c2/61f2d3c0b1226a0ba03c2f68_website-background-min_optimized_1080x1920.png");
+        background-position: 50% 0%;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
     }
 
     .roadmap-community {
