@@ -49,7 +49,7 @@ export default function Team() {
                                 </div>
                                 <div className="w-slide">
                                     <div className="team-member">
-                                        <div className="team-member-image"><img loading="lazy" src="/img/5.jpg" alt="" className="sam-image" /></div>
+                                        <div className="team-member-image"><img loading="lazy" src="/img/5_760x879.jpg" alt="" className="sam-image" /></div>
                                         <div className="team-member-details">
                                             <div className="team-member-details">
                                                 <div className="name-with-icon">
