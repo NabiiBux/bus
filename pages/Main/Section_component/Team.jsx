@@ -122,12 +122,13 @@ export default function Team() {
                             </div>
                             <div className="left-arrow w-slider-arrow-left" role="button" tabIndex={0} aria-controls="w-slider-mask-0" aria-label="previous slide"><img loading="lazy" src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c0c1bbf1c8a8e4a310626_arrow-l.svg" alt="" className="image-2" /></div>
                             <div className="right-arrow w-slider-arrow-right" role="button" tabIndex={0} aria-controls="w-slider-mask-0" aria-label="next slide"><img loading="lazy" src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618c0c1b2f4884a4338a84c1_arrow-r.svg" alt="" className="image-2" /></div>
-                            <div className="slide-nav-2 w-slider-nav w-round" />
+                            <div className="slide-nav-2 w-slider-nav w-round" ></div>
+                         </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+       
 
     )
 }
