@@ -14,10 +14,10 @@ export default function Team() {
                             <div className="section-title">Shadow Descendant Team</div>
                             
                         </div>
-                        <div data-delay={4000} data-animation="slide" className="slider-2 w-slider" data-autoplay="false" data-easing="ease-in-out" style={{ opacity: 1 }} data-hide-arrows="false" data-disable-swipe="false" data-w-id="9dfd51f7-88e6-0b11-8b58-846c8cbe441c" 
-                        data-autoplay-limit={0} data-nav-spacing={3} data-duration={500} data-infinite="true">
-                            <div className="mask-2 w-slider-mask">
-                                <div className="w-slide">
+                        <div data-delay="4000" data-animation="slide" class="slider-2 w-slider" data-autoplay="false" data-easing="ease-in-out" style="opacity:0" data-hide-arrows="false" data-disable-swipe="false" data-w-id="9dfd51f7-88e6-0b11-8b58-846c8cbe441c"
+                        data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+                        <div class="mask-2 w-slider-mask">
+                            <div class="w-slide">
                                     <div className="team-member">
                                         <div className="team-member-image"><img loading="lazy" src="/img/20.jpg" alt="" className="sam-image" /></div>
                                         <div className="team-member-details">
