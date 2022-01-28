@@ -21,7 +21,7 @@ export default function Spec() {
                         </div>
                     </div>
                 </div>
-                <div className="samurai-grunge-holder"><img src="/img/61914e1769a98ac64d37a33f_samurai%20runge.png" loading="lazy" data-w-id="ced2d943-df49-bc80-b937-adf05d2bcff8" sizes="(max-width: 479px) 100vw, (max-width: 1279px) 50vw, 600px" srcSet="/img/61914e1769a98ac64d37a33f_samurai%20grnge-p-500.png 500w, /img/61914e1769a98ac64d37a33f_samurai%20grune.png 814w" alt="" className="image-8" /></div>
+                <div className="samurai-grunge-holder"><img src="/img/61914e1769a98ac64d37a33f_samurai%20unge.png" loading="lazy" data-w-id="ced2d943-df49-bc80-b937-adf05d2bcff8" sizes="(max-width: 479px) 100vw, (max-width: 1279px) 50vw, 600px" srcSet="/img/61914e1769a98ac64d37a33f_samurai%20grne-p-500.png 500w, /img/61914e1769a98ac64d37a33f_samurai%20grun.png 814w" alt="" className="image-8" /></div>
             </div>
         </div>
     )
