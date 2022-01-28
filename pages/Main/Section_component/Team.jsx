@@ -42,9 +42,7 @@ export default function Team() {
                                                 </div>
                                                 <div className="icon-holder-insta"><a href="https://www.instagram.com/shadowdescendants/" target="_blank" className="link-block w-inline-block"><img loading="lazy" src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618b2d3a70bb5b0f633d6ca0_instagram.svg" alt="" className="image-7" /><img loading="lazy" src="https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/619163461bfe91ce9267b794_insta-red.svg" alt="" className="image-7-hover" /></a></div>
                                             </div>
-                                            <p className="paragraph-14">Marketing and community manager              .</p>
-                                
-   
+                                            <p className="paragraph-14">Marketing and community manager .</p>
                                         </div>
                                     </div>
                                 </div>
