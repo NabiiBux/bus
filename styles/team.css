@@ -114,12 +114,12 @@
 
 .team-member-image {
     overflow: hidden;
-    width: 380px;
-    height: 438px;
+    width: 500px;
+    height: 500px;
 }
 
 .team-member {
-    max-width: 380px;
+    max-width: 500px;
 }
 .image-2 {
     position: absolute;
